@@ -16,7 +16,7 @@
     "commitmsg": "commitlint -E GIT_PARAMS"
   },
   "peerDependencies": {
-    "@commitlint/cli": "^9.0.0"
+    "@commitlint/cli": ">=9 <12"
   },
   "dependencies": {
     "@octokit/rest": "^15.9.4",
